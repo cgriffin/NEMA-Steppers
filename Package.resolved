@@ -1,0 +1,15 @@
+{
+  "originHash" : "f5aa2689c89774d492c2ef43224fe6456abcec73400acdc3afa3163db2c68aac",
+  "pins" : [
+    {
+      "identity" : "cadova",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tomasf/Cadova.git",
+      "state" : {
+        "revision" : "d383959351a1ccea0add72a5bf0c3b582945112a",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
