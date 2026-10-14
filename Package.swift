@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-	name: "NEMA",
+	name: "NEMA-Steppers",
 	platforms: [.macOS(.v15)],
 	products: [
 		.library(name: "NEMA", targets: ["NEMA"]),
